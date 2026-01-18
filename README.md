@@ -16,8 +16,6 @@ A **centralized, secure Azure network** with:
 
 * Controlled outbound internet access
 * No public IP exposure
-* Full traffic inspection
-* Private east–west communication
 * Bastion-only access
 
 ---
