@@ -156,29 +156,5 @@ A **centralized, secure Azure network** with:
 
 ---
 
-## 🔍 Minor Improvements (Optional, Advanced)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7995e179-8360-45ce-8010-6c9f0b696db6" />
 
-If you want to **level this up further**:
-
-1. **Azure Firewall Policy**
-
-   * Instead of inline rules
-   * More scalable & reusable
-
-2. **Service Tags in NSG**
-
-   * Use `AzureLoadBalancer` instead of IP-based rules
-
-3. **Forced Tunneling (Optional)**
-
-   * If integrating on-prem later via VPN/ER
-
-4. **Azure Monitor + Firewall Logs**
-
-   * Enable diagnostics to Log Analytics
-
-5. **DDoS Protection (Standard)**
-
-   * Attach to Hub VNet for enterprise resilience
-
----
